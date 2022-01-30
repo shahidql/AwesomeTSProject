@@ -81,7 +81,7 @@ const App = () => {
           <Section title="Step One">
           <View style={{width: 250, height: 50, backgroundColor: 'powderblue'}}>
             <Text style={{fontSize: 28, textAlign: 'center', margin: 10}}>Fading in</Text>
-          </View``>
+          </View>
             Shahid <Text style={styles.highlight}>App.tsx</Text> to change this
             screen and then come back to see your edits.
           </Section>
